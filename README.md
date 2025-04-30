@@ -45,7 +45,8 @@ int main() {
 
 ```
 ## OUTPUT :
-![alt text](<IMG/Screenshot 2025-04-28 105341.png>)
+![image](https://github.com/user-attachments/assets/8c408dd5-768a-4918-bca5-46c325491fab)
+
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
@@ -79,7 +80,11 @@ printf("Running ps with execlp. Now with path specified\n");
 ## OUTPUT
 
 
-![alt text](<IMG/Screenshot 2025-04-28 105409.png>)
+![image](https://github.com/user-attachments/assets/58354edd-e7ac-4665-b6fd-d12bfec6a919)
+
+![image](https://github.com/user-attachments/assets/2cbee13a-7083-4919-84ec-b74614f05a3b)
+
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -131,8 +136,9 @@ int main() {
 ```
 
 ## OUTPUT
-![alt text](<IMG/Screenshot 2025-04-28 105502.png>)
-![alt text](<IMG/Screenshot 2025-04-28 105529.png>)
+
+![image](https://github.com/user-attachments/assets/1c43c7e5-e98d-47f0-828d-2679e2661159)
+
 
 # RESULT:
 The programs are executed successfully.
